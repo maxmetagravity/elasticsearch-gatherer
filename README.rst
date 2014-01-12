@@ -18,7 +18,7 @@ Milestone 4 - gatherer job distribution by load/queue length/node name, cron job
 
 Milestone 5 - more gatherers, more content adapters
 
-Milestone 1 is reached: basic deployment of gatherer zips works.
+Milestone 1 is reached: basic deployment of gatherer zips works::
 
     curl -XPOST '0:9200/_deploy?name=test&path=/tmp/elasticsearch-gatherer-0.90.9.1.zip'
     {"deploy":true}

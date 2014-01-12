@@ -10,7 +10,7 @@
       <topBarEnabled>true</topBarEnabled>
       <sourceLineNumbersEnabled>true</sourceLineNumbersEnabled>
       <gitHub>
-        <projectId>jprante/elasticsearch-knapsack</projectId>
+        <projectId>jprante/elasticsearch-gatherer</projectId>
         <ribbonOrientation>right</ribbonOrientation>
         <ribbonColor>black</ribbonColor>
       </gitHub>
